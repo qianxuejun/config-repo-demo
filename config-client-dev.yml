@@ -1,2 +1,5 @@
 info:
   profile: dev
+  
+from:
+  local-dev-1.0
